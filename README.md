@@ -4,6 +4,18 @@
 
 1.pip安装requirements.txt中需要的环境
 
+opencv_contrib_python_headless==3.4.3.18
+
+torchvision==0.2.1
+
+torch==0.4.0
+
+matplotlib==2.2.2
+
+numpy==1.14.3
+
+tensorboardX==1.4
+
 2.需要下载KITTI2015数据集，对应的read_data.py文件只能读取KITTI2015数据集
 
 3.KITTI2015数据集下载需要翻墙
